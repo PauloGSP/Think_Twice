@@ -9,7 +9,7 @@ import json
 import numpy
 
 # GLOBAL VARIABLES
-API_KEY = "723aba823e2308bdaa21430ea6efa485"    # access key to API 
+API_KEY = ""    # access key to API 
 BASE_URL = 'http://api.aviationstack.com/v1/'
 username = ''
 
